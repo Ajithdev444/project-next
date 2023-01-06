@@ -1,0 +1,17 @@
+.maindiv{
+  background: aqua;
+}
+
+.heading{
+  color: magenta;
+  font-size: 4rem;
+  margin-left: 3.5rem;
+}
+
+.btn{
+  font-size: 3rem;
+  background: lightgreen;
+  color: white;
+  border-radius: 2rem;
+  border-color: white;
+}
